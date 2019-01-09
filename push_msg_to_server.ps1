@@ -2,6 +2,7 @@
 #Read content from Adverts.txt line by line
 #Push to Server wait 60 seconds
 #Push until last line, once reach end of the file it will start from begin
+# By tarAn https://discord.gg/NaHzFdB
 
 $SERVER="IP"
 $RCONPORT="PORT"
