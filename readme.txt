@@ -23,3 +23,12 @@ with your details.
 edit your adverts.txt with your messages
 
 right click .ps1 and run with windows powershell.
+
+you must also enable enable remotesigned scripts
+
+https://superuser.com/questions/106360/how-to-enable-execution-of-powershell-scripts
+
+Based on a idea by my comrade kentone for linux bash.
+
+https://github.com/kentone/rconMessager
+
