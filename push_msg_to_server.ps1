@@ -19,7 +19,7 @@ function dt
 function PushMsgToServer
 {
 
-    echo "$(dt) Pusing message"
+    echo "$(dt) Pushing message"
     
 	./mcrcon.exe -c -H $SERVER -P $RCONPORT -p $RCONPASS "say $MSG"    
     
